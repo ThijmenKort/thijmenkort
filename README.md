@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @thijmenkort
 - 👀 I’m interested in all webevelopment related things
-- 🌱 I’m currently learning JavaScript
-- 📫 You can reach me via mail@thijmenkort.nl
+- 🌱 I’m currently learning Laravel
+- 📫 You can reach me via t.kort@soer.nl
+- 🏢 Working for [@Soer-BV](https://github.com/Soer-BV/intranet "Soer-BV")
 
 <!---
 thijmenkort/thijmenkort is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
