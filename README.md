@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thijmenkort
 - 👀 I’m interested in all webevelopment related things
-- 🌱 I’m currently learning Laravel
+- 🌱 I’m currently exploring Laravel and Filament
 - 📫 You can reach me via t.kort@soer.nl
 - 🏢 Working for [@Soer-BV](https://github.com/Soer-BV/ "Soer-BV")
 
